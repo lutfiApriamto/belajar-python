@@ -1,7 +1,6 @@
 # Width and Multiline
 
 # Data
-
 data_nama = "Ucup Surucup"
 data_umur = 17
 data_tinggi = 150.1
