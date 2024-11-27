@@ -4,3 +4,4 @@ default_value = "Belum Diisi"
 
 dictionary = dict.fromkeys(keys, default_value)
 print(dictionary)
+
