@@ -9,7 +9,6 @@ def hello_world(nama):
     '''fungsi hello world menerima input dengan variable nama'''
     print(f"Selamat datang dunia wahai {nama}")
 
-
 hello_world("ucup")
 hello_world("Asyep")
 
