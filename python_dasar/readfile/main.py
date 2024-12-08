@@ -7,14 +7,28 @@ print(f"status read : {file.readable()}")
 print(f"status write : {file.writable()}")
 
 ## baca seluruh file
-print(file.read())
+# print(file.read())
+
+
+print(f'\n\n\n')
 
 ## baca per baris
 # print(file.readline(),end="") # baca baris pertama
 # print(file.readline(),end="") # baca baris kedua
+# print(file.readline(),end="")  # baca baris ketiga
+
+
+
+print(f'\n\n\n')
+
+
 
 ## baca semua baris sebagai list
-# print(file.readlines())
+print(file.readlines())
+
+
+print(f'\n\n\n')
+
 
 print(f"apakah file sudah diclose : {file.closed}")
 file.close()

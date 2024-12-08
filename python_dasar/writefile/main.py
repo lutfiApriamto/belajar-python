@@ -23,7 +23,7 @@ with open("data_2.txt",'a',encoding="utf-8") as file:
 with open("data_2.txt",'a',encoding="utf-8") as file:
     file.write("tambah lagi dengan append\n")
 
-# 3. mode r+
+# # 3. mode r+
 
 with open("data_3.txt",'w',encoding="utf-8") as file:
     file.write("data ke 3\n")
