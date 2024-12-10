@@ -85,6 +85,6 @@ data_angka.reverse()
 data.reverse()
 print(f"data di reverse = \n{data_angka} \n{data}")
 
-data_baru = [1,5,2,6,9,10, "otong", "keisha", 'lutfi', 'joko']
-data_baru.sort()
-print(data_baru)
+# data_baru = [1,5,2,6,9,10, "otong", "keisha", 'lutfi', 'joko']
+# data_baru.sort()
+# print(data_baru)
